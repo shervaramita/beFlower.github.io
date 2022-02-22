@@ -9,7 +9,7 @@ body{
     height:650px;
     background:transparent;
     background-color:rgb(19,72,69);
-    background-image: url(./IMAGE\ FOLDER/our-flower.png);
+    background-image: url('../cssmain/imagefolder/our-flower.png');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
