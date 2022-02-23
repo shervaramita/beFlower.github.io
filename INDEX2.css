@@ -10,7 +10,7 @@ body{
     height:650px;
     background:transparent;
     background-color:rgb(19,72,69);
-    background-image: url('../cssmain/imagefolder/our-flower.png');
+    background-image: url('./imagefolder/our-flower.png');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -23,7 +23,7 @@ body{
     background:transparent;
     background-color:rgb(19,72,69);
     /* background-image: url('../cssmain/imagefolder/BG-1.png'); */
-    background-image: url('../cssmain/imagefolder/BG-1.png');
+    background-image: url('./imagefolder/BG-1.png');
 
     background-size: cover;
     background-position: center;
@@ -243,7 +243,7 @@ body{
     width:100%;
     padding-bottom: 300px;
     background-color:rgb(19,72,69);
-    background-image: url(./IMAGE\ FOLDER/BG-1.PNG);
+    background-image: url(./IMAGE\ FOLDER/BG-1.png);
     background-size: cover;
     background-repeat: no-repeat;
 
@@ -1776,7 +1776,7 @@ product page end here */
     height:1000px;
     width: 100%;
     background-color: rgb(19,72,69);
-    background-image: url('./imagefolder/flower2-section-bg2.PNG');
+    background-image: url('./imagefolder/flower2-section-bg2.png');
     background-repeat: no-repeat;
     margin-top: -50px;
 
@@ -2405,7 +2405,7 @@ body{
     height:650px;
     background:transparent;
     background-color:rgb(19,72,69);
-    background-image: url('../cssmain/imagefolder/our-flower.png');
+    background-image: url('./imagefolder/our-flower.png');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -2417,7 +2417,7 @@ body{
     height:1000px;
     background:transparent;
     background-color:rgb(19,72,69);
-    background-image: url('../cssmain/imagefolder/BG-1.png');
+    background-image: url('./imagefolder/BG-1.png');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -2429,7 +2429,7 @@ body{
     height:1200px;
     background:transparent;
     background-color:rgb(19,72,69);
-    background-image: url('../cssmain/imagefolder/our-flower.png');
+    background-image: url('./imagefolder/our-flower.png');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -2995,7 +2995,7 @@ body{
 .morbi1{
     height: 600px;
     width: 600px;
-    background-image: url('./imagefolder/HOME-IMG5.JPG');
+    background-image: url('./imagefolder/HOME-IMG5.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     display: inline-block;
@@ -3085,7 +3085,7 @@ body{
 .div6{
     height:1000px;
     width: 100%;
-     background-image: url('./imagefolder/flower2-section-bg2.PNG');
+     background-image: url('./imagefolder/flower2-section-bg2.png');
     background-repeat: no-repeat;
     color: green;
     font-size: 12px;
