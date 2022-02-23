@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 body{
     margin: 0px;
     padding: 0px;
@@ -22,7 +22,9 @@ body{
     height:1000px;
     background:transparent;
     background-color:rgb(19,72,69);
-    background-image: url('../cssmain/imagefolder/BG-1.png');
+    /* background-image: url('../cssmain/imagefolder/BG-1.png'); */
+    background-image: url('https://github.com/shervaramita/herbal.github.io/blob/main/imagefolder/BG-1.png');
+
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -600,8 +602,8 @@ body{
 .morbi1{
     height: 600px;
     width: 600px;
-    background-image:url('https://shervaramita.github.io/herbal.github.io/imagefolder/HOME-IMG8.jpg')
-    /* background-image: url('https://github.com/shervaramita/herbal.github.io/blob/main/IMAGE%20FOLDER/HOME-IMG5.jpg'); */
+    /* background-image:url('https://shervaramita.github.io/herbal.github.io/imagefolder/HOME-IMG8.jpg') */
+    background-image: url('https://github.com/shervaramita/herbal.github.io/blob/main/IMAGE%20FOLDER/HOME-IMG5.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     display: inline-block;
@@ -2392,7 +2394,6 @@ margin-left: 40px;
 
 
 
-=======
 body{
     margin: 0px;
     padding: 0px;
@@ -2416,7 +2417,7 @@ body{
     height:1000px;
     background:transparent;
     background-color:rgb(19,72,69);
-    background-image: url(../cssmain/imagefolder/BG-1.png);
+    background-image: url('../cssmain/imagefolder/BG-1.png');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -2428,7 +2429,7 @@ body{
     height:1200px;
     background:transparent;
     background-color:rgb(19,72,69);
-    background-image: url(../cssmain/imagefolder/our-flower.png);
+    background-image: url('../cssmain/imagefolder/our-flower.png');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -4785,4 +4786,3 @@ margin-left: 40px;
 
 
 
->>>>>>> f28d6f299aa6f741aab2c78e1fac066f6d729693
