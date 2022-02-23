@@ -600,7 +600,8 @@ body{
 .morbi1{
     height: 600px;
     width: 600px;
-    background-image: url('https://github.com/shervaramita/herbal.github.io/blob/main/IMAGE%20FOLDER/HOME-IMG5.jpg');
+    background-image:url('https://shervaramita.github.io/herbal.github.io/imagefolder/HOME-IMG8.jpg')
+    /* background-image: url('https://github.com/shervaramita/herbal.github.io/blob/main/IMAGE%20FOLDER/HOME-IMG5.jpg'); */
     background-repeat: no-repeat;
     background-size: cover;
     display: inline-block;
